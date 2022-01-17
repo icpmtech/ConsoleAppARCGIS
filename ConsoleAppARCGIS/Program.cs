@@ -16,8 +16,8 @@ namespace ConsoleAppARCGIS
             //CSOM
             //LIST PINS NO SHAREPOIN ONLINE
             //CREDECIAIS DE AUTENTICAÇÂO
-            string siteUrlOnline = "https://ascendiigi.sharepoint.com/sites/GOdigital";
-            string userNameOnline = "godigitaladm@ascendiigi.onmicrosoft.com";
+            string siteUrlOnline = "https://XXXXXX.sharepoint.com/sites/XXXXX";
+            string userNameOnline = "CCCC@XXXXX.onmicrosoft.com";
             string passwordStringOnline = "";
            
             //AUTENTICAÇÂO VIA CODIGO
